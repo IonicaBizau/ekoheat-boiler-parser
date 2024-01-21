@@ -1,10 +1,10 @@
 {
+  "name": "ekoheat-boiler-parser",
+  "version": "1.0.1",
   "bin": {
     "ekoheat-boiler-parser": "bin/ekoheat-boiler-parser.js"
   },
-  "name": "ekoheat-boiler-parser",
-  "version": "1.0.0",
-  "description": "My a parser and stats generator for my Ekoheat boiler.",
+  "description": "A parser and stats generator for EkoHeat Pellet Boilers.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
