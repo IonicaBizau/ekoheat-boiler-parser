@@ -29,7 +29,7 @@
 
 
 
-> My a parser and stats generator for my Ekoheat boiler.
+> A parser and stats generator for EkoHeat Pellet Boilers.
 
 
 
@@ -68,7 +68,7 @@ Then, run `ekoheat-boiler-parser --help` and see what the CLI tool can do.
 $ ekoheat-boiler-parser --help
 Usage: ekoheat-boiler-parser <command> [options]
 
-My a parser and stats generator for my Ekoheat boiler.
+A parser and stats generator for EkoHeat Pellet Boilers.
 
 Commands:
   download-current-frame   Download the current frame.
