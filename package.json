@@ -1,6 +1,6 @@
 {
   "name": "ekoheat-boiler-parser",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "bin": {
     "ekoheat-boiler-parser": "bin/ekoheat-boiler-parser.js"
   },
@@ -43,5 +43,10 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/ekoheat-boiler-parser/issues"
+  },
+  "blah": {
+    "installation": [
+      "I have installed an Android phone running DroidCam in front of the boiler screen. The phone streams the video through http and by using OCR technology I can extract the data from the boiler screen."
+    ]
   }
 }
