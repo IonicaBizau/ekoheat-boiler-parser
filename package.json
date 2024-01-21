@@ -1,0 +1,47 @@
+{
+  "bin": {
+    "ekoheat-boiler-parser": "bin/ekoheat-boiler-parser.js"
+  },
+  "name": "ekoheat-boiler-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "license": "MIT",
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "csv-it": "^2.0.0",
+    "daty": "^1.2.1",
+    "fillo": "^1.0.14",
+    "sharp": "^0.33.2",
+    "tesseract.js": "^5.0.4",
+    "tilda": "^4.4.16"
+  },
+  "homepage": "https://github.com/IonicaBizau/ekoheat-boiler-parser#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/ekoheat-boiler-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/ekoheat-boiler-parser/issues"
+  }
+}
