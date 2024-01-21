@@ -98,6 +98,8 @@ Documentation can be found at https://github.com/IonicaBizau/ekoheat-boiler-pars
 
 
 
+I have installed an Android phone running DroidCam in front of the boiler screen. The phone streams the video through http and by using OCR technology I can extract the data from the boiler screen.
+
 
 
 
